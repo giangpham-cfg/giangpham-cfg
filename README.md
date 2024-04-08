@@ -1,6 +1,6 @@
 ### Hi there, I'm Giang! I transitioned into Tech from a non-technical background September 2022. 👋
 
-- 🔭 I’m currently working on my technical, problem solving and communication skills through:
+- 🔭 I’m currently a participant of the Powercoders program and working on my technical, problem solving and communication skills through:
 
 - 👩🏻‍💻 Building solo projects including a full stack web application used technologies such as SQL, Express.js, React.js, Node.js
 - 🧠 Joining beginer-friendly hackathons to challenge my coding skills and connect with like-minded people
@@ -18,7 +18,6 @@
 </details>
 
 ---
-- 🌱 I’m currently learning Data Structures & Algorithms and Node.js
 - 👯 I’m looking to collaborate with other developers to gain exposure to real-world coding scenarios and best practices in software development
 - 🤔 I’m looking for help with learning Data Structures & Alsorithms
 - 📫 How to reach me: giang.pham1610@gmail.com
