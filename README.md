@@ -20,7 +20,7 @@
 ---
 - 👯 I’m looking to collaborate with other developers to gain exposure to real-world coding scenarios and best practices in software development
 - 🤔 I’m looking for help with learning Data Structures & Alsorithms
-- 📫 How to reach me: giang.pham1610@gmail.com
+- 📫 How to reach me: giang.pham@powercoders.org
 - 😄 Pronouns: She/Her
 #### My favourite quote
 > When something is important enough, you do it even if the odds are not in your favor
